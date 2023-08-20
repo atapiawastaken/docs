@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   modules: [
       '@nuxt/devtools',
       '@nuxt/content',
+      '@nuxt/image',
       'nuxt-gtag',
       'nuxt-simple-sitemap',
       'nuxt-multi-cache'
